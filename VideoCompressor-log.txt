@@ -1,0 +1,12 @@
+12:25:17  ========== Старт Video Compressor 1.2 ==========
+12:25:17  exeDir=E:\open code project\VideoCompressor\
+12:25:17  workDir=E:\open code project\VideoCompressor\VideoCompressor_ab4b003b
+12:25:18  ffmpeg наличие: OK (105423872 байта)
+12:27:42  ----------- Файл 1/1: C:\Users\krasi\Downloads\263e4c72-18d8-400f-94be-8b7364c54294 (1).mp4
+12:27:42  очаквана големина=72949776 байта; свободно на C:\Users\krasi\Downloads = 545566720 байта
+12:27:42  tmp=C:\Users\krasi\Downloads\263e4c72-18d8-400f-94be-8b7364c54294 (1)_tmp_ef9a8e.mp4  finalOut=C:\Users\krasi\Downloads\263e4c72-18d8-400f-94be-8b7364c54294 (1)_compressed.mp4
+12:27:42  cmd: -y -hide_banner -i "C:\Users\krasi\Downloads\263e4c72-18d8-400f-94be-8b7364c54294 (1).mp4" -vf scale=-2:min(720\,ih) -c:v libx264 -preset veryfast -crf 26 -c:a aac -b:a 128k -movflags +faststart "C:\Users\krasi\Downloads\263e4c72-18d8-400f-94be-8b7364c54294 (1)_tmp_ef9a8e.mp4"
+12:28:20  ffmpeg exit code: 0
+12:28:20  нов файл: 36379931 байта
+12:28:21  OK: C:\Users\krasi\Downloads\263e4c72-18d8-400f-94be-8b7364c54294 (1)_compressed.mp4
+12:28:21  ===== КРАЙ: успешно 1, грешни 0, спестено 0 MB =====
